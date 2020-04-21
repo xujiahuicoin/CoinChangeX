@@ -1,0 +1,50 @@
+{
+  "coinBTC" : [
+    "ETH-BTC",
+    "LTC-BTC",
+    "EOS-BTC",
+    "BCH-BTC",
+    "ETC-BTC",
+    "XRP-BTC",
+    "BSV-BTC",
+    "NEO-BTC",
+    "ONT-BTC",
+    "BCHSV-BTC"
+  ],
+  "coinETH" : [
+    "LTC-ETH",
+    "EOS-ETH",
+    "BCH-ETH",
+    "ETC-ETH",
+    "XRP-ETH",
+    "BSV-ETH",
+    "NEO-ETH",
+    "ONT-ETH",
+    "BCHSV-ETH",
+    "IOST-ETH"
+  ],
+  "coinUSDT" : [
+    "BTC-USDT",
+    "LTC-USDT",
+    "ETH-USDT",
+    "EOS-USDT",
+    "ETC-USDT",
+    "XRP-USDT",
+    "BSV-USDT",
+    "NEO-USDT",
+    "ONT-USDT",
+    "BCHSV-USDT",
+    "IOST-USDT"
+  ],
+  "futures" : [
+    "BTC",
+    "ETH",
+    "EOS",
+    "LTC",
+    "ETC",
+    "XRP",
+    "BCH",
+    "BSV",
+    "TRX"
+  ]
+}

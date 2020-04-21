@@ -1,0 +1,4 @@
+{"user":[["操作员名字","okex 加密字符串"],["操作员2",""]],"infoNumber":"密钥的 MD5值","AdminChangeUserFileProgram":2}
+
+
+AdminChangeUserFileProgram 是提交验证方案，默认选择2就可以。
