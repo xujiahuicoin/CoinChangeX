@@ -1,0 +1,46 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+
+target 'ChangeCoinX' do
+#表单
+pod 'XLForm'
+pod 'JVFloatLabeledTextField', '1.0.2', :inhibit_warnings => true
+pod 'AXRatingView', '1.0.3', :inhibit_warnings => true
+
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+#代码问题上报
+pod 'Bugly'
+#数据解压 压缩
+pod 'GZIP', '~> 1.2'
+#网络请求
+pod 'Alamofire'
+#自动布局
+pod 'SnapKit'
+#网络图片加载
+pod 'Kingfisher'
+#指示器
+pod 'NVActivityIndicatorView'
+#下拉刷新
+pod 'ESPullToRefresh', '~> 2.9'
+pod 'TextFieldEffects'
+pod 'JWAdjustablePositionButton'
+#pod 'JPush'
+pod 'SwifterSwift'
+#HUD
+pod 'PKHUD', '~> 5.2.1'
+#json转Model
+pod 'HandyJSON'
+
+pod 'IQKeyboardManagerSwift'
+
+#综合库
+pod 'BFKit-Swift'
+#动画库
+#pod 'ViewAnimator'
+# 选项卡
+pod 'Segmentio'
+pod 'SocketRocket'
+#Alert
+pod 'SCLAlertView'
+end

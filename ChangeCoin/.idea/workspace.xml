@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c82b02f-f99d-4e61-8072-d553b0d1dcdd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ChangeCoin.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin.xcodeproj/xcuserdata/mac.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/AppDelegate+JPush.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconiPhoneApp_60pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconiPhoneApp_60pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconiPhoneNotification_20pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconiPhoneNotification_20pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconiPhoneSpootlight5_29pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconiPhoneSpootlight5_29pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconiPhoneSpootlight7_40pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconiPhoneSpootlight7_40pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/AppIcon.appiconset/iconstore_1024pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/ee7287f37532d3fe08db70946339c5fc@3x@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/ee7287f37532d3fe08db70946339c5fc@3xiPhonePortraitiOS56_320x480pt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/ee7287f37532d3fe08db70946339c5fc@3xiPhonePortraitiOS56_320x480pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/ee7287f37532d3fe08db70946339c5fc@3xiPhonePortraitiOS56_320x568pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/ee7287f37532d3fe08db70946339c5fc@3xiPhonePortraitiOS789_320x480pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/ee7287f37532d3fe08db70946339c5fc@3xiPhonePortraitiOS789_320x568pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/ee7287f37532d3fe08db70946339c5fc@3xiPhonePortraitiOS89_375x667pt@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/LaunchImage.launchimage/ee7287f37532d3fe08db70946339c5fc@3xiPhonePortraitiOS89_414x736pt@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/LME.imageset/060钢铁-实 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/LME.imageset/060钢铁-实.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/LME.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/PTA.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/PTA.imageset/原料 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/PTA.imageset/原料.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/大豆.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/大豆.imageset/大豆子 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/大豆.imageset/大豆子.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/天然橡胶.imageset/17橡胶制品 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/天然橡胶.imageset/17橡胶制品.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/天然橡胶.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/小麦.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/小麦.imageset/小麦2 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/小麦.imageset/小麦2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/玉米.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/玉米.imageset/玉米 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/Tool/玉米.imageset/玉米.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/biIconImg.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/biIconImg.imageset/fabu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/biIconImg.imageset/fabu@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/gongjubao_img.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/gongjubao_img.imageset/gongju@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/gongjubao_img.imageset/gongju@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/kuaixunshan_img.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/kuaixunshan_img.imageset/kuaixun@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/kuaixunshan_img.imageset/kuaixun@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/searchImgge.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/searchImgge.imageset/搜索@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/searchImgge.imageset/搜索@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/shujukuai_img.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/shujukuai_img.imageset/shuju@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/shujukuai_img.imageset/shuju@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/sousuode_img.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/sousuode_img.imageset/jiansuo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/sousuode_img.imageset/jiansuo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/xinshoujieda_ccc.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/xinshoujieda_ccc.imageset/dati@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/xinshoujieda_ccc.imageset/dati@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/xinshouzhan_img.imageset/14161565595828_.pic_hd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/xinshouzhan_img.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/xinwen_img.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/xinwen_img.imageset/zixun@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/home/xinwen_img.imageset/zixun@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/0.imageset/1642736875693931360902.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/0.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/1.imageset/51cce58583e8b49e3638a4f9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/2.imageset/7652e5b9bbe781b5e5bc82e6a2a6e7a2a7e9ba9fe58aab2f37.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/3.imageset/9308e88eabe5b08fe9bb986969692652.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/3.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/4.imageset/13534d61426f6c6c7372d0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/4.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/5.imageset/2303416d7550524b5e1b.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/5.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/6.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/6.imageset/a8f64341495f6c65672785.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/7.imageset/6ee5e98086e587a1e5b09831311055.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/7.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/8.imageset/9d7d4b4c43447261676f6e666c79ae49.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/8.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/9.imageset/23c4e9ad87e9838e42a0.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/9.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/relese_AnNiuButton.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/relese_AnNiuButton.imageset/编辑 (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/strateGy/relese_AnNiuButton.imageset/编辑 (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/dian.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/dian.imageset/dian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/dian.imageset/dian@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/dian.imageset/dian@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/huati0.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/huati0.imageset/shequ备份@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/huati0.imageset/shequ备份@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/huati1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/huati1.imageset/shequ@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/huati1.imageset/shequ@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mainpage_img10.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mainpage_img10.imageset/shouye备份 17@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mainpage_img10.imageset/shouye备份 17@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mainpage_img11.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mainpage_img11.imageset/shouye@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mainpage_img11.imageset/shouye@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mypage_img0.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mypage_img0.imageset/wode-copy-copy备份 3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mypage_img0.imageset/wode-copy-copy备份 3@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mypage_img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mypage_img1.imageset/wode-copy-copy@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/mypage_img1.imageset/wode-copy-copy@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/qushitu_img0.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/qushitu_img0.imageset/market备份@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/qushitu_img0.imageset/market备份@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/qushitu_img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/qushitu_img1.imageset/market@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/qushitu_img1.imageset/market@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/shijianzhong_img.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/shijianzhong_img.imageset/flash_news_time_icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/shijianzhong_img.imageset/flash_news_time_icon@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/xinwend_img0.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/xinwend_img0.imageset/denglucelveguanli备份@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/xinwend_img0.imageset/denglucelveguanli备份@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/xinwend_img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/xinwend_img1.imageset/denglucelveguanli@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/tab/xinwend_img1.imageset/denglucelveguanli@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi1.imageset/qi1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi2.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi2.imageset/qi2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi3.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi3.imageset/qi3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi4.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi4.imageset/qi4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi5.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi5.imageset/qi5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi6.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi6.imageset/qi6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi7.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi7.imageset/qi7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi8.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/topic/qi8.imageset/qi8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/fanhuibai_img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/fanhuibai_img1.imageset/返 回 (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/fanhuibai_img1.imageset/返 回 (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/goinright.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/goinright.imageset/arrow_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/goinright.imageset/arrow_icon@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/goinright.imageset/arrow_icon@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/myImage_img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/myImage_img1.imageset/zhanghu1@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/myImage_img1.imageset/zhanghu1@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/nodata.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/nodata.imageset/无数据 (7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/nodata.imageset/无数据 (8).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/yaoshisuo_img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/yaoshisuo_img1.imageset/mima@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/whole/yaoshisuo_img1.imageset/mima@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/celuedian_img.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/celuedian_img.imageset/celue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/celuedian_img.imageset/celue@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/headimage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/headimage.imageset/位图3@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/headimage.imageset/位图3@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/jianyide_img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/jianyide_img1.imageset/fankui@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/jianyide_img1.imageset/fankui@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/kefu.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/kefu.imageset/kefu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/kefu.imageset/kefu@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/newpeople.imageset/14161565595828_.pic_hd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/newpeople.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/shezhi.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/shezhi.imageset/shezhi@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/shezhi.imageset/shezhi@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/shouce.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/shouce.imageset/xinshou@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/shouce.imageset/xinshou@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/xiaoxi.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/xiaoxi.imageset/xiaoxi@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/xiaoxi.imageset/xiaoxi@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/yonghupingjia_img1.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/yonghupingjia_img1.imageset/pingjia@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/wodeimg/yonghupingjia_img1.imageset/pingjia@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/zhanweitu.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/zhanweitu.imageset/zhanweitu@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Assets.xcassets/zhanweitu.imageset/zhanweitu@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/ChangeCoin-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChangeCoin/mianze.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassCode/UtilsCode/TableView/XJHNilDataTableViewCell.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassCode/UtilsCode/TableView/XJHNilDataTableViewCell.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassCode/UtilsCode/TableView/XJHNilDataTableViewCell.xib" afterDir="false" />
+    </list>
+    <ignored path="$USER_HOME$/Library/Caches/AppCode2019.1/DerivedData/ChangeCoin-dishknnrjpadwrabanqqssbyttqy/Build/Intermediates.noindex/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_af53eaf51d6f44ad1bf6ad5891e9b28ccfab7a76" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/runConfigurations/ChangeCoin.xml" />
+        <option value="$PROJECT_DIR$/.idea/ChangeCoin.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/xcode.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="43" />
+    <option name="y" value="274" />
+    <option name="width" value="1363" />
+    <option name="height" value="578" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="Base" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="CodeFile" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="Extension" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="NetCode" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="Save" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="BannerView" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="BFRefresh" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="BFRefresh" type="fcab9f18:XcodeViewNode" />
+              <item name="Resource" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="CollecttionView" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="commentview" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="Kline" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="PageTitleView" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="PageView" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="PopView" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="ProgressHUD" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="TableView" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="View" type="fcab9f18:XcodeViewNode" />
+            </path>
+            <path>
+              <item name="" type="efc3779f:XcodeRootNode" />
+              <item name="ChangeCoin" type="1d218c8b:XcodeProjectNode" />
+              <item name="ChangeCoin" type="fcab9f18:XcodeViewNode" />
+              <item name="ClassCode" type="fcab9f18:XcodeViewNode" />
+              <item name="UtilsCode" type="fcab9f18:XcodeViewNode" />
+              <item name="ViewObject" type="fcab9f18:XcodeViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c82b02f-f99d-4e61-8072-d553b0d1dcdd" name="Default Changelist" comment="" />
+      <created>1571913703832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571913703832</updated>
+      <workItem from="1571913709740" duration="366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="366000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="43" y="274" width="1363" height="578" extended-state="0" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25662377" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32921812" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

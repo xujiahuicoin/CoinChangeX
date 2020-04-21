@@ -1,0 +1,116 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AXRatingView (1.0.3)
+  - BFKit-Swift (6.0.1)
+  - Bugly (2.5.2)
+  - ESPullToRefresh (2.9.2)
+  - GZIP (1.2.3)
+  - HandyJSON (5.0.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - JVFloatLabeledTextField (1.0.2)
+  - JWAdjustablePositionButton (0.0.3)
+  - Kingfisher (5.13.0):
+    - Kingfisher/Core (= 5.13.0)
+  - Kingfisher/Core (5.13.0)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - PKHUD (5.2.1)
+  - SCLAlertView (0.8)
+  - Segmentio (4.1)
+  - SnapKit (5.0.1)
+  - SocketRocket (0.5.1)
+  - SwifterSwift (5.1.0):
+    - SwifterSwift/AppKit (= 5.1.0)
+    - SwifterSwift/CoreGraphics (= 5.1.0)
+    - SwifterSwift/CoreLocation (= 5.1.0)
+    - SwifterSwift/Dispatch (= 5.1.0)
+    - SwifterSwift/Foundation (= 5.1.0)
+    - SwifterSwift/MapKit (= 5.1.0)
+    - SwifterSwift/SceneKit (= 5.1.0)
+    - SwifterSwift/SpriteKit (= 5.1.0)
+    - SwifterSwift/SwiftStdlib (= 5.1.0)
+    - SwifterSwift/UIKit (= 5.1.0)
+  - SwifterSwift/AppKit (5.1.0)
+  - SwifterSwift/CoreGraphics (5.1.0)
+  - SwifterSwift/CoreLocation (5.1.0)
+  - SwifterSwift/Dispatch (5.1.0)
+  - SwifterSwift/Foundation (5.1.0)
+  - SwifterSwift/MapKit (5.1.0)
+  - SwifterSwift/SceneKit (5.1.0)
+  - SwifterSwift/SpriteKit (5.1.0)
+  - SwifterSwift/SwiftStdlib (5.1.0)
+  - SwifterSwift/UIKit (5.1.0)
+  - TextFieldEffects (1.6.0)
+  - XLForm (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AXRatingView (= 1.0.3)
+  - BFKit-Swift
+  - Bugly
+  - ESPullToRefresh (~> 2.9)
+  - GZIP (~> 1.2)
+  - HandyJSON
+  - IQKeyboardManagerSwift
+  - JVFloatLabeledTextField (= 1.0.2)
+  - JWAdjustablePositionButton
+  - Kingfisher
+  - NVActivityIndicatorView
+  - PKHUD (~> 5.2.1)
+  - SCLAlertView
+  - Segmentio
+  - SnapKit
+  - SocketRocket
+  - SwifterSwift
+  - TextFieldEffects
+  - XLForm
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AXRatingView
+    - BFKit-Swift
+    - Bugly
+    - ESPullToRefresh
+    - GZIP
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - JVFloatLabeledTextField
+    - JWAdjustablePositionButton
+    - Kingfisher
+    - NVActivityIndicatorView
+    - PKHUD
+    - SCLAlertView
+    - Segmentio
+    - SnapKit
+    - SocketRocket
+    - SwifterSwift
+    - TextFieldEffects
+    - XLForm
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AXRatingView: ccaadc1bbda99a4b7e1d556059482d2b933a9f4e
+  BFKit-Swift: a91367e548f995ef9804956e255912fdbf0d91a2
+  Bugly: dbac48b55ad469a97cc4321045cd50df8f63d44f
+  ESPullToRefresh: efed00d52597065e9a84e1e52fa444fdb1a1dee0
+  GZIP: af5c90ef903776a7e9afe6ebebd794a84a2929d4
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  JVFloatLabeledTextField: 58a3a32cfb800e5b224f676987e7c13abf50a14d
+  JWAdjustablePositionButton: 19f259cfb4268eb71edabb441f68f63c5fdfa365
+  Kingfisher: 0d334cada987fcddbe9b5cec516406e1ee9d4748
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  PKHUD: 4e6162c4c39ac367c6934e9855c6b4762ee16256
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  Segmentio: ab29def64e1bff6e6e9b97671788a99bed3f1d9f
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  SwifterSwift: a9e8e144832638c2850b43da5feaf9598c6ad65b
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+  XLForm: 7ee02761be8a369d1ad1bbffe738b97083d94f3e
+
+PODFILE CHECKSUM: fa533cca84e8078813e98d9def0ac73b598e2317
+
+COCOAPODS: 1.8.3

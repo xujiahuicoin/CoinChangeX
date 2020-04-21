@@ -1,0 +1,6 @@
+framework module JWAdjustablePositionButton {
+  umbrella header "JWAdjustablePositionButton-umbrella.h"
+
+  export *
+  module * { export * }
+}
